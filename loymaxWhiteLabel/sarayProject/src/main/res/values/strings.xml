@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Сарай</string>
+
+    <string name="menu_item_event">Акции</string>
+    <string name="menu_item_sign_in">Войти</string>
+    <string name="menu_item_shopping_list">Список покупок</string>
+    <string name="menu_item_shops">Магазины</string>
+    <string name="menu_item_notifications">Оповещение</string>
+    <string name="menu_item_support">Служба проддержки</string>
+    <string name="menu_item_about">О приложении</string>
+
+</resources>

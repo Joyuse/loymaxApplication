@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.App" parent="@android:style/Theme.DeviceDefault" />
+
+<!--    <style name="Theme.App.Starting" parent="Theme.SplashScreen">-->
+<!--        &lt;!&ndash; Set the splash screen background to black &ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="windowSplashScreenBackground">@android:color/black</item>&ndash;&gt;-->
+<!--        &lt;!&ndash; Use windowSplashScreenAnimatedIcon to add a drawable or an animated-->
+<!--             drawable. &ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="windowSplashScreenAnimatedIcon">@drawable/il_splash_screen</item>&ndash;&gt;-->
+
+<!--        <item name="android:windowBackground">@drawable/il_splash_screen</item>-->
+<!--        &lt;!&ndash; Set the theme of the Activity that follows your splash screen. &ndash;&gt;-->
+
+<!--        <item name="postSplashScreenTheme">@style/Theme.TestAddingSDK</item>-->
+
+<!--    </style>-->
+
+    <style name="Theme.TestAddingSDK" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
